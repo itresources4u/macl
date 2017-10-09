@@ -1,0 +1,14 @@
+{
+    "name": "itresources4u/macl",
+    "description": "It is a role base permission management systdeveloped to use in laravel application.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moktar Ali",
+            "email": "im.moktar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
