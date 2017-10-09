@@ -20,7 +20,8 @@
         ],
         "psr-4": {
             "App\\": "app/",
-            "Itresources4u\\Macl\\":"packages/itresources4u/macl/src"
+            "Itresources4u\\Macl\\":"packages/itresources4u/macl/src",
+            "Itresources4u\\Acl\\": "packages/itresources4u/acl/src"
         }
     },
     "autoload-dev": {

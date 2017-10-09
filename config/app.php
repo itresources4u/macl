@@ -179,7 +179,8 @@ return [
         /**
          * Other packages
          */
-        Itresources4u\Macl\MaclServiceProvider::class
+        Itresources4u\Macl\MaclServiceProvider::class,
+        Itresources4u\Acl\AclServiceProvider::class
 
     ],
 

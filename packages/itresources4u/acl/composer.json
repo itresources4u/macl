@@ -1,0 +1,16 @@
+{
+    "name": "itresources4u/acl",
+    "description": "It is a role based access permission system developed for laravel application",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moktar Ali",
+            "email": "im.moktar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "PHP": ">= 5.6.*"
+    }
+}
